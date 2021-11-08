@@ -120,7 +120,8 @@ Titel: Means and methods for counteracting protein aggregation
 
 # Scientific grants 
 
-2018	SiA KIEM-VANG 2: Anthocyanins from agricultural waste: a source of next-generation antimicrobials? 
+2019    SiA KIEM-VANG: Development of a fractionation and characterization strategy to identify antimicrobial anthocyanin molecules for application as novel plant-based antibiotics  
+2018	SiA KIEM-VANG: Anthocyanins from agricultural waste: a source of next-generation antimicrobials? 
 
 # Publications 
 
