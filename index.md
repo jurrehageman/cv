@@ -13,32 +13,32 @@
 
 # Working experience 
 
-2009-currently: **Hanzehogeschool Groningen**
+- 2009-currently: **Hanzehogeschool Groningen**
 Institute for Life Science en Technology
-> I am a Senior lecturer of various Molecular Biology, Biochemistry, Genetics and Bio-informatics related modules. I am also involved in curriculum development.
+    > I am a Senior lecturer of various Molecular Biology, Biochemistry, Genetics and Bio-informatics related modules. I am also involved in curriculum development.
 
-2008-2010: **University Medical Center Groningen**
+- 2008-2010: **University Medical Center Groningen**
 Center for Liver, Digestive and Metabolic Diseases 
 Laboratory Pediatrics 
  
-> I worked as a Postdocteral researcher and investigated the use of nuclear receptors as targets for anti-atherosclerotic therapies in mice. I also generated various pseudo-viral vectors (Adenovirus and  adeno-associated viruses) for gene manipulation.
+    > I worked as a Postdocteral researcher and investigated the use of nuclear receptors as targets for anti-atherosclerotic therapies in mice. I also generated various pseudo-viral vectors (Adenovirus and  adeno-associated viruses) for gene manipulation.
 
 
-2004-2008 **University of Groningen**
+- 2004-2008 **University of Groningen**
 Department of Radiation and Stress Cell Biology
 
-> I worked as a PhD student on the subject of molecular chaperones and the relation with diseases where proteotoxic stress plays a major role (such as Huntington's Disease). Used various Molecular Biology, Cell Biology and cellular imaging techniques.
-Thesis: [The human HSP70/HSP40 chaperone family, A study on its capacity to combat proteotoxic stress](https://research.rug.nl/en/publications/the-human-hsp70hsp40-chaperone-family-a-study-on-its-capacity-to-). 
+    > I worked as a PhD student on the subject of molecular chaperones and the relation with diseases where proteotoxic stress plays a major role (such as Huntington's Disease). Used various Molecular Biology, Cell Biology and cellular imaging techniques.
+    Thesis: [The human HSP70/HSP40 chaperone family, A study on its capacity to combat proteotoxic stress](https://research.rug.nl/en/publications/the-human-hsp70hsp40-chaperone-family-a-study-on-its-capacity-to-). 
 
 
-2001-2004 **University of Groningen**
+- 2001-2004 **University of Groningen**
 Department of Radiation and Stress Cell Biology
 
-> I worked as a Research Technician on the subject of radiation-induced fibrosis and molecular chaperones. Used various Molecular Biology and Cell Biology techniques.
+    > I worked as a Research Technician on the subject of radiation-induced fibrosis and molecular chaperones. Used various Molecular Biology and Cell Biology techniques.
 
-2000-2000 **Centocor B.V. Leiden**
+- 2000-2000 **Centocor B.V. Leiden**
 Quality Control Microbiology 
-Workes as a quality control technician under GLP/GMP conditions.
+    > Worked as a quality control technician under GLP/GMP conditions.
 
 ---
 
