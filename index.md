@@ -24,19 +24,19 @@ Laboratory Pediatrics
     > I worked as a Postdocteral researcher and investigated the use of nuclear receptors as targets for anti-atherosclerotic therapies in mice. I also generated various pseudo-viral vectors (Adenovirus and  adeno-associated viruses) for gene manipulation.
 
 
-- 2004-2008 **University of Groningen**
+- 2004-2008: **University of Groningen**
 Department of Radiation and Stress Cell Biology
 
     > I worked as a PhD student on the subject of molecular chaperones and the relation with diseases where proteotoxic stress plays a major role (such as Huntington's Disease). Used various Molecular Biology, Cell Biology and cellular imaging techniques.
     Thesis: [The human HSP70/HSP40 chaperone family, A study on its capacity to combat proteotoxic stress](https://research.rug.nl/en/publications/the-human-hsp70hsp40-chaperone-family-a-study-on-its-capacity-to-). 
 
 
-- 2001-2004 **University of Groningen**
+- 2001-2004: **University of Groningen**
 Department of Radiation and Stress Cell Biology
 
     > I worked as a Research Technician on the subject of radiation-induced fibrosis and molecular chaperones. Used various Molecular Biology and Cell Biology techniques.
 
-- 2000-2000 **Centocor B.V. Leiden**
+- 2000-2000: **Centocor B.V. Leiden**
 Quality Control Microbiology 
     > Worked as a quality control technician under GLP/GMP conditions.
 
@@ -44,23 +44,23 @@ Quality Control Microbiology
 
 # Education 
 
-- 2004-2008	PhD 
+- 2004-2008: PhD 
 University of Groningen
 See working experience for details.
-- 1998-2001	HLO (Reseach Technician, specialization Biotechnology)
+- 1998-2001: HLO (Reseach Technician, specialization Biotechnology)
 Hanzehogeschool, University of Applied Science, Groningen.  
-- 1994-1998 MLO (Reseach Technician, specialization Medical Microbiology)
+- 1994-1998: MLO (Reseach Technician, specialization Medical Microbiology)
 ROC Zadkine College, Rotterdam 
  
 ---
 
 # Internships 
 
-- 2000-2001	University of Groningen
+- 2000-2001: University of Groningen
 Eukaryotic Microbiology 
-    > During this internship, I performed genetics screens to isolate novel genes involved in peroxisome degradation.
+    > During this internship, I performed genetic screens to isolate novel genes involved in peroxisome degradation.
  
-- 1997-1998	Academisch Ziekenhuis Rotterdam 
+- 1997-1998: Academisch Ziekenhuis Rotterdam 
 Department of Bacteriology
 > I worked on the epidemiological typing of multi-resistant *Klebsiella pneumoniae* strains originating from an intensive care unit. 
 
@@ -74,56 +74,66 @@ I am a computer enthousiast. I like programming in Python and R. Furthermore, I 
 
 # Courses 
 
-- 2014	Basis Kwalificatie Examinering (BKE) 
-- 2013	Informatics 2 (Python course) 
-- 2012	Informatics 1 (Python course) 
-- 2012	Pedagogisch Didactische Bekwaamheid (PDB) 
-- 2011	Bedrijfshulpverlener 
-- 2009	Proefdierkunde (art. 9) 
-- 2006	Good Laboratory Practice / Good Clinical Practice 
-- 2005	Project Management for Scientific Research 
-- 2005	Publishing in English 
-- 2000	Elektronenmicroscopie 
-- 1999	Veilige Microbiologische Technieken 
+- 2014:	Basis Kwalificatie Examinering (BKE) 
+- 2013:	Informatics 2 (Python course) 
+- 2012:	Informatics 1 (Python course) 
+- 2012:	Pedagogisch Didactische Bekwaamheid (PDB) 
+- 2011:	Bedrijfshulpverlener 
+- 2009:	Proefdierkunde (art. 9) 
+- 2006:	Good Laboratory Practice / Good Clinical Practice 
+- 2005:	Project Management for Scientific Research 
+- 2005:	Publishing in English 
+- 2000:	Elektronenmicroscopie 
+- 1999:	Veilige Microbiologische Technieken 
 
 ---
 
 # Commissions
 
-- 2014-2015	Assessor Basis Kwalificatie Examinering 
-- 2013-heden Lid Toetscommissie 
+- 2014-2015: Assessor Basis Kwalificatie Examinering 
+- 2013-2015: Toetscommissie 
+
+---
 
 # Hobbies 
 
 Running, fishing, nature, traveling, programming, science.
 
+---
 
 # Conferences 
 
-- 2008, CSHL meeting on Molecular Sress Responses and Chaperones, Cold Spring Harbor, New York, USA. Newly identified molecular chaperones with high 			activity in the suppression of polyglutamine aggregation. 
-- 2007, Protein Folding & Chaperones in Biology, Tomar, Portugal. Comparison of intra-organellar chaperone capacity for dealing with stress-induced protein unfolding. 
-- 2007, 10th Dutch Endo Neuro Meeting, Doorwerth, Nederland. A novel Hsp40 family member is a strong suppressor of polyglutamine aggregation. 
+- 2008: CSHL meeting on Molecular Sress Responses and Chaperones, Cold Spring Harbor, New York, USA. Newly identified molecular chaperones with high activity in the suppression of polyglutamine aggregation. 
+- 2007: Protein Folding & Chaperones in Biology, Tomar, Portugal. Comparison of intra-organellar chaperone capacity for dealing with stress-induced protein unfolding. 
+- 2007: 10th Dutch Endo Neuro Meeting, Doorwerth, Nederland. A novel Hsp40 family member is a strong suppressor of polyglutamine aggregation. 
 <details>
   <summary><span style="color:blue;">Click</span> for more conferences</summary>
 
-- 2003,	12th international congress of radiation research (ICRR), Brisbane, Australië. Normal tissue response to Radiation: Molecular changes in relation to tissue dysfunction. The role of TGF-beta in radiation-induced fibrosis. 
-- 2003, 2nd ESTRO Workshop on biology in radiation oncology, Berg en dal/Nijmegen, Nederland. Normal tissue effects: mechanisms. Activation of profibrogenic genes by radiation and TGF-beta. 
+- 2003:	12th international congress of radiation research (ICRR), Brisbane, Australië. Normal tissue response to Radiation: Molecular changes in relation to tissue dysfunction. The role of TGF-beta in radiation-induced fibrosis. 
+- 2003: 2nd ESTRO Workshop on biology in radiation oncology, Berg en dal/Nijmegen, Nederland. Normal tissue effects: mechanisms. Activation of profibrogenic genes by radiation and TGF-beta. 
 </details>
 
+---
 
 # Prizes 
 
-- 2003, Honorering Klaas Breur Reisfonds ICRR, Brisbane, Australië. 				Verkregen van de Nederlandse vereniging voor Radiobiologie, 				wetenschappelijke vergadering, UMC, Utrecht, Nederland. 				Presentatie: The role of TGF-beta in radiation-induced fibrosis 
+- 2003: Klaas Breur Travel Fund. Nederlandse vereniging voor Radiobiologie.
+
+---
 
 # Patents 
 
-2008, Mede-eigenaar van patent 17106188.1-2123. 
-Titel: Means and methods for counteracting protein aggregation 
+- 2008: co-owner of patent 17106188.1-2123. 
+Means and methods for counteracting protein aggregation.
+
+---
 
 # Scientific grants 
 
-2019    SiA KIEM-VANG: Development of a fractionation and characterization strategy to identify antimicrobial anthocyanin molecules for application as novel plant-based antibiotics  
-2018	SiA KIEM-VANG: Anthocyanins from agricultural waste: a source of next-generation antimicrobials? 
+- 2019: SiA KIEM-VANG: Development of a fractionation and characterization strategy to identify antimicrobial anthocyanin molecules for application as novel plant-based antibiotics  
+- 2018: SiA KIEM-VANG: Anthocyanins from agricultural waste: a source of next-generation antimicrobials? 
+
+---
 
 # Publications 
 
@@ -144,6 +154,7 @@ Titel: Means and methods for counteracting protein aggregation
 - Hageman J, Vos MJ, van Waarde MA, Kampinga HH. Comparison of    intra-organellar chaperone capacity for dealing with stress-induced    protein unfolding. J Biol Chem. 2007 Nov 23;282(47):34334-45. 
 - Hageman J, Eggen BJ, Rozema T, Damman K, Kampinga HH,     Coppes RP. Radiation and transforming growth factor-beta     cooperate in transcriptional activation of the profibrotic plasminogen    activator inhibitor-1 gene. Clin Cancer Res. 2005 Aug 15. 
 - Goessens WH, Lemmens-den Toom N, Hageman J, Hermans PW,    Sluijter M, de Groot R, Verbrugh HA. Evaluation of the Vitek 2     system for susceptibility testing of Streptococcus pneumoniae     isolates. Eur J Clin Microbiol Infect Dis. 2000 Aug;19(8):618-2. 
+
 </details>
 
 
