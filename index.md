@@ -56,17 +56,13 @@ ROC Zadkine College, Rotterdam
 
 # Internships 
 
-- 2000-2001		Rijksuniversiteit Groningen 
-Afdeling Eukaryote Microbiologie 
-Onderwerp stageperiode: The function of Pex3p in selective peroxisome degradation. 
-Gebruikte technieken: elektronenmicroscopie, fluorescentie microscopie van GFP-fusie eiwitten en western blot analyse. 
-Onderwerp afstudeerperiode: Isolation of novell peroxisome degradation deficient mutants. 
-Gebruikte technieken: diverse moleculair biologische technieken waaronder gene tagging methoden, in silico analyse van DNA-sequentie resultaten en constructie van GFP-fusie eiwitten. 
-- 1997-1998		Academisch Ziekenhuis Rotterdam 
-Afdeling Bacteriologie 
-Onderwerp: Epidemiologische typering van multiresistente Klebsiella pneumoniae  afkomstig van de ICU van het Westeinde ziekenhuis. 
-Gebruikte technieken: PCR, kloneringstechnieken, iso electric focusing, pulse field gel electrophoresis en DNA-sequentie analyse. 
-
+- 2000-2001	University of Groningen
+Eukaryotic Microbiology 
+    > During this internship, I performed genetics screens to isolate novel genes involved in peroxisome degradation.
+ 
+- 1997-1998	Academisch Ziekenhuis Rotterdam 
+Department of Bacteriology
+> I worked on the epidemiological typing of multi-resistant *Klebsiella pneumoniae* strains originating from an intensive care unit. 
 
 ---
 
@@ -79,6 +75,8 @@ I am a computer enthousiast. I like programming in Python and R. Furthermore, I 
 # Courses 
 
 - 2014	Basis Kwalificatie Examinering (BKE) 
+- 2013	Informatics 2 (Python course) 
+- 2012	Informatics 1 (Python course) 
 - 2012	Pedagogisch Didactische Bekwaamheid (PDB) 
 - 2011	Bedrijfshulpverlener 
 - 2009	Proefdierkunde (art. 9) 
@@ -88,11 +86,7 @@ I am a computer enthousiast. I like programming in Python and R. Furthermore, I 
 - 2000	Elektronenmicroscopie 
 - 1999	Veilige Microbiologische Technieken 
 
-# Extra's:
-- 2014  Introduction to programming with Python 
-- 2013	Informatics 2 (Python course) 
-- 2012	Informatics 1 (Python course) 
-
+---
 
 # Commissions
 
@@ -109,8 +103,12 @@ Running, fishing, nature, traveling, programming, science.
 - 2008, CSHL meeting on Molecular Sress Responses and Chaperones, Cold Spring Harbor, New York, USA. Newly identified molecular chaperones with high 			activity in the suppression of polyglutamine aggregation. 
 - 2007, Protein Folding & Chaperones in Biology, Tomar, Portugal. Comparison of intra-organellar chaperone capacity for dealing with stress-induced protein unfolding. 
 - 2007, 10th Dutch Endo Neuro Meeting, Doorwerth, Nederland. A novel Hsp40 family member is a strong suppressor of polyglutamine aggregation. 
+<details>
+  <summary>Click for more conferences</summary>
+
 - 2003,	12th international congress of radiation research (ICRR), Brisbane, Australië. Normal tissue response to Radiation: Molecular changes in relation to tissue dysfunction. The role of TGF-beta in radiation-induced fibrosis. 
 - 2003, 2nd ESTRO Workshop on biology in radiation oncology, Berg en dal/Nijmegen, Nederland. Normal tissue effects: mechanisms. Activation of profibrogenic genes by radiation and TGF-beta. 
+</details>
 
 
 # Prizes 
@@ -132,6 +130,9 @@ Titel: Means and methods for counteracting protein aggregation
 - Hageman J, Krikken AM. Single-Step Gene Knockout of the SUC2 Gene in Saccharomyces cerevisiae : A Laboratory Exercise for Undergraduate Students. J Microbiol Biol Educ. 2018 Oct 31;19(3). 
 - Boesjes M, Bloks VW, Hageman J, Bos T, van Dijk TH, Havinga R,    Wolters H, Jonker JW, Kuipers F, Groen AK. Hepatic farnesoid X-   receptor isoforms α2 and α4 differentially modulate bile salt and    lipoprotein metabolism in mice. PLoS One. 2014 Dec 15. 
 - Heldens L, van Genesen ST, Hanssen LL, Hageman J, Kampinga HH,    Lubsen NH. Protein refolding in peroxisomes is dependent upon an    HSF1-regulated function. Cell Stress Chaperones. 2012 Apr 5. 
+<details>
+  <summary>Click for more publications</summary>
+
 - Out C, Hageman J, Bloks VW, Gerrits H, Sollewijn Gelpke MD, Bos T,    Havinga R, Smit MJ, Kuipers F, Groen AK. Liver receptor homolog-1 is critical for adequate up-regulation of Cyp7a1 gene transcription and bile salt synthesis during bile salt sequestration. Hepatology. 2011 Jun;53(6):2075-85. 
 - Hageman J, van Waarde MA, Zylicz A, Walerych D, Kampinga HH.    The diverse members of the mammalian HSP70 machine show    distinct chaperone-like activities. Biochem J. 2011 Apr 1;435(1):127-42. 
 - van Dijk KW, Kypreos KE, Fallaux FJ, Hageman J. Adenovirus-mediated gene transfer. Methods Mol Biol. 2011;693:321-43. 				 
@@ -143,5 +144,7 @@ Titel: Means and methods for counteracting protein aggregation
 - Hageman J, Vos MJ, van Waarde MA, Kampinga HH. Comparison of    intra-organellar chaperone capacity for dealing with stress-induced    protein unfolding. J Biol Chem. 2007 Nov 23;282(47):34334-45. 
 - Hageman J, Eggen BJ, Rozema T, Damman K, Kampinga HH,     Coppes RP. Radiation and transforming growth factor-beta     cooperate in transcriptional activation of the profibrotic plasminogen    activator inhibitor-1 gene. Clin Cancer Res. 2005 Aug 15. 
 - Goessens WH, Lemmens-den Toom N, Hageman J, Hermans PW,    Sluijter M, de Groot R, Verbrugh HA. Evaluation of the Vitek 2     system for susceptibility testing of Streptococcus pneumoniae     isolates. Eur J Clin Microbiol Infect Dis. 2000 Aug;19(8):618-2. 
+</details>
+
 
  ---
