@@ -9,50 +9,51 @@
 
 <img src="pics/me.jpg" alt="me" width="200"/>
 
+---
+
 # Working experience 
 
-- 2009-heden    Hanzehogeschool Groningen 
-Instituut voor Life Science en Technologie 
-Functie: Hogeschooldocent curriculum van de opleiding BML-Research. 
-Vakken: Biologie, Genetica, Informatica, Bio-informatica, Immunologie, Micriobiologie
-- 2008-2010     Rijksuniversiteit Groningen/Universitair Medisch Centrum Groningen 
+2009-currently: **Hanzehogeschool Groningen**
+Institute for Life Science en Technology
+> I am a Senior lecturer of various Molecular Biology, Biochemistry, Genetics and Bio-informatics related modules. I am also involved in curriculum development.
+
+2008-2010: **University Medical Center Groningen**
 Center for Liver, Digestive and Metabolic Diseases 
 Laboratory Pediatrics 
-Functie: Postdoc. Binnen deze functie heb ik twee AIO's en een 				analist aangestuurd/begeleid. 
-Onderwerp: Nuclear receptors as targets for anti-atherosclerotic therapies 
-Gebruikte technieken: diverse moleculair biologische, fysiologische, biochemische en analytisch-chemische technieken in muismodellen zoals shRNA, galcannulaties, galzout en cholesterol metingen, FPLC en diverse recombinant DNA technieken m.b.t het genereren van recombinante adenovirussen en andeno-associated virussen. 
-- 2004-2008		Rijksuniversiteit Groningen/Universitair Medisch Centrum Groningen 
-Afdeling Celbiologie/Straling en Stress Celbiologie 
-Functie: AIO 
-Proefschrift: The human HSP70/HSP40 chaperone family, A study on its capacity to combat proteotoxic stress. 
-Onderwerp: Helping Health; Boosting the cellular defence system 
-Gebruikte technieken: diverse moleculair biologische technieken waaronder downregulatie van genexpressie met behulp van shRNA, kloneren van complete gen families, dedicated gene arrays, complexe genmodificaties en retrovirale transducties. Breed scala aan biochemische technieken en geavanceerde confocaal miscroscopische technieken waaronder life imaging van humane cellen. 
-- 2002-2004		Rijksuniversiteit Groningen 
-Afdeling Celbiologie/Straling en Stress Celbiologie 
-Functie: Research analist 
-Onderwerp: Radiation induced activation of pro-fibrogenic genes 
-Gebruikte technieken: diverse moleculair biologische technieken 			waaronder kwantitatieve PCR en promoter reporter analyses. 
-- 2001-2002		Rijksuniversiteit Groningen 
-Afdeling Celbiologie/Straling en Stress Celbiologie 
-Functie: Research analist 
-Onderwerp: The HSP70 chaparone factory 
-Gebruikte technieken: weefselkweek, diverse moleculair biologische technieken, genklonering, site-directed mutagenesis, transiënte cel transfecties, stabiele cel transfecties en confocaal microscopische technieken.   
-- 2000-2000		Centocor B.V. Leiden 
+ 
+> I worked as a Postdocteral researcher and investigated the use of nuclear receptors as targets for anti-atherosclerotic therapies in mice. I also generated various pseudo-viral vectors (Adenovirus and  adeno-associated viruses) for gene manipulation.
+
+
+2004-2008 **University of Groningen**
+Department of Radiation and Stress Cell Biology
+
+> I worked as a PhD student on the subject of molecular chaperones and the relation with diseases where proteotoxic stress plays a major role (such as Huntington's Disease). Used various Molecular Biology, Cell Biology and cellular imaging techniques.
+Thesis: [The human HSP70/HSP40 chaperone family, A study on its capacity to combat proteotoxic stress](https://research.rug.nl/en/publications/the-human-hsp70hsp40-chaperone-family-a-study-on-its-capacity-to-). 
+
+
+2001-2004 **University of Groningen**
+Department of Radiation and Stress Cell Biology
+
+> I worked as a Research Technician on the subject of radiation-induced fibrosis and molecular chaperones. Used various Molecular Biology and Cell Biology techniques.
+
+2000-2000 **Centocor B.V. Leiden**
 Quality Control Microbiology 
-Functie: Analist, gewerkt onder GMP/GLP normen 
+Workes as a quality control technician under GLP/GMP conditions.
+
+---
 
 # Education 
 
 - 2004-2008	PhD 
-Rijksuniversiteit Groningen/Universitair Medisch Centrum Groningen 
-Zie relevante werkervaring 
-- 1998-2001	HLO 
-Hanzehogeschool, Hogeschool van Groningen 
-Specialisatie Biotechnologie 
-- 1994-1998		MLO 
-ROC Zadkine College te Rotterdam 
-Specialisatie Medische Microbiologie 
+University of Groningen
+See working experience for details.
+- 1998-2001	HLO (Reseach Technician, specialization Biotechnology)
+Hanzehogeschool, University of Applied Science, Groningen.  
+- 1994-1998 MLO (Reseach Technician, specialization Medical Microbiology)
+ROC Zadkine College, Rotterdam 
  
+---
+
 # Internships 
 
 - 2000-2001		Rijksuniversiteit Groningen 
@@ -66,9 +67,14 @@ Afdeling Bacteriologie
 Onderwerp: Epidemiologische typering van multiresistente Klebsiella pneumoniae  afkomstig van de ICU van het Westeinde ziekenhuis. 
 Gebruikte technieken: PCR, kloneringstechnieken, iso electric focusing, pulse field gel electrophoresis en DNA-sequentie analyse. 
 
+
+---
+
 # Software 	 
 
-Python, R, Linux, Git, ClustalX, Blast and databases (EMBL, NCBI, Ensembl, PDB). 
+I am a computer enthousiast. I like programming in Python and R. Furthermore, I use Linux, Git and various Bio-informatics software (ClustalX, Blast and databases such as EMBL, NCBI, Ensembl, PDB). 
+
+---
 
 # Courses 
 
@@ -83,17 +89,15 @@ Python, R, Linux, Git, ClustalX, Blast and databases (EMBL, NCBI, Ensembl, PDB).
 - 1999	Veilige Microbiologische Technieken 
 
 # Extra's:
-- 2014    Introduction to programming with Python 
-- 2013	Informatica 2 (tentamen gemaakt en behaald) 
-- 2012	Informatica 1 (tentamen gemaakt en behaald) 
+- 2014  Introduction to programming with Python 
+- 2013	Informatics 2 (Python course) 
+- 2012	Informatics 1 (Python course) 
 
 
 # Commissions
 
-- 014-2015	Assessor Basis Kwalificatie Examinering 
-- 013-heden	Lid Toetscommissie 
-- 013-heden	Contactdocent Genetica UMCG 
-- 013-heden	Ondersteuning betasteunpunt (profielwerkstukken) 
+- 2014-2015	Assessor Basis Kwalificatie Examinering 
+- 2013-heden Lid Toetscommissie 
 
 # Hobbies 
 
@@ -139,7 +143,5 @@ Titel: Means and methods for counteracting protein aggregation
 - Hageman J, Vos MJ, van Waarde MA, Kampinga HH. Comparison of    intra-organellar chaperone capacity for dealing with stress-induced    protein unfolding. J Biol Chem. 2007 Nov 23;282(47):34334-45. 
 - Hageman J, Eggen BJ, Rozema T, Damman K, Kampinga HH,     Coppes RP. Radiation and transforming growth factor-beta     cooperate in transcriptional activation of the profibrotic plasminogen    activator inhibitor-1 gene. Clin Cancer Res. 2005 Aug 15. 
 - Goessens WH, Lemmens-den Toom N, Hageman J, Hermans PW,    Sluijter M, de Groot R, Verbrugh HA. Evaluation of the Vitek 2     system for susceptibility testing of Streptococcus pneumoniae     isolates. Eur J Clin Microbiol Infect Dis. 2000 Aug;19(8):618-2. 
-
- 
 
  ---
