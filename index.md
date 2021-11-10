@@ -62,7 +62,7 @@ Eukaryotic Microbiology
  
 - 1997-1998: Academisch Ziekenhuis Rotterdam 
 Department of Bacteriology
-> I worked on the epidemiological typing of multi-resistant *Klebsiella pneumoniae* strains originating from an intensive care unit. 
+    > I worked on the epidemiological typing of multi-resistant *Klebsiella pneumoniae* strains originating from an intensive care unit. 
 
 ---
 
