@@ -104,7 +104,7 @@ Running, fishing, nature, traveling, programming, science.
 - 2007, Protein Folding & Chaperones in Biology, Tomar, Portugal. Comparison of intra-organellar chaperone capacity for dealing with stress-induced protein unfolding. 
 - 2007, 10th Dutch Endo Neuro Meeting, Doorwerth, Nederland. A novel Hsp40 family member is a strong suppressor of polyglutamine aggregation. 
 <details>
-  <summary>Click for more conferences</summary>
+  <summary><span style="color:blue;">Click</span> for more conferences</summary>
 
 - 2003,	12th international congress of radiation research (ICRR), Brisbane, Australië. Normal tissue response to Radiation: Molecular changes in relation to tissue dysfunction. The role of TGF-beta in radiation-induced fibrosis. 
 - 2003, 2nd ESTRO Workshop on biology in radiation oncology, Berg en dal/Nijmegen, Nederland. Normal tissue effects: mechanisms. Activation of profibrogenic genes by radiation and TGF-beta. 
@@ -131,7 +131,7 @@ Titel: Means and methods for counteracting protein aggregation
 - Boesjes M, Bloks VW, Hageman J, Bos T, van Dijk TH, Havinga R,    Wolters H, Jonker JW, Kuipers F, Groen AK. Hepatic farnesoid X-   receptor isoforms α2 and α4 differentially modulate bile salt and    lipoprotein metabolism in mice. PLoS One. 2014 Dec 15. 
 - Heldens L, van Genesen ST, Hanssen LL, Hageman J, Kampinga HH,    Lubsen NH. Protein refolding in peroxisomes is dependent upon an    HSF1-regulated function. Cell Stress Chaperones. 2012 Apr 5. 
 <details>
-  <summary>Click for more publications</summary>
+  <summary><span style="color:blue;">Click</span> for more publications</summary>
 
 - Out C, Hageman J, Bloks VW, Gerrits H, Sollewijn Gelpke MD, Bos T,    Havinga R, Smit MJ, Kuipers F, Groen AK. Liver receptor homolog-1 is critical for adequate up-regulation of Cyp7a1 gene transcription and bile salt synthesis during bile salt sequestration. Hepatology. 2011 Jun;53(6):2075-85. 
 - Hageman J, van Waarde MA, Zylicz A, Walerych D, Kampinga HH.    The diverse members of the mammalian HSP70 machine show    distinct chaperone-like activities. Biochem J. 2011 Apr 1;435(1):127-42. 
