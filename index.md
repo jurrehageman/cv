@@ -1,10 +1,10 @@
 # Personal information 
  
->- Voornaam: Jurre 
->- Achternaam: Hageman
->- Geboorteplaats:	Gouda 
->- Geboortedatum: 23-01-1978 
->- E-mail: j.hageman@pl.hanze.nl 
+>- First Name: Jurre 
+>- last Name: Hageman
+>- Place of Birth:	Gouda 
+>- Date of Birth: 23-01-1978 
+>- E-mail: jurrehageman@gmail.com
 >- Linkedin: https://nl.linkedin.com/in/jurrehageman 
 
 <img src="pics/me.jpg" alt="me" width="200"/>
@@ -23,13 +23,13 @@ Laboratory Pediatrics
  
     > I worked as a Postdocteral researcher and investigated the use of nuclear receptors as targets for anti-atherosclerotic therapies in mice. I also generated various pseudo-viral vectors (Adenovirus and  adeno-associated viruses) for gene manipulation.
 
-
 - 2004-2008: **University of Groningen**
 Department of Radiation and Stress Cell Biology
 
     > I worked as a PhD student on the subject of molecular chaperones and the relation with diseases where proteotoxic stress plays a major role (such as Huntington's Disease). Used various Molecular Biology, Cell Biology and cellular imaging techniques.
     Thesis: [The human HSP70/HSP40 chaperone family, A study on its capacity to combat proteotoxic stress](https://research.rug.nl/en/publications/the-human-hsp70hsp40-chaperone-family-a-study-on-its-capacity-to-). 
-
+<details>
+  <summary><span style="color:blue;">Click</span> for more working experience</summary>
 
 - 2001-2004: **University of Groningen**
 Department of Radiation and Stress Cell Biology
@@ -39,6 +39,7 @@ Department of Radiation and Stress Cell Biology
 - 2000-2000: **Centocor B.V. Leiden**
 Quality Control Microbiology 
     > Worked as a quality control technician under GLP/GMP conditions.
+</details>
 
 ---
 
@@ -77,6 +78,9 @@ I am a computer enthousiast. I like programming in Python and R. Furthermore, I 
 - 2014:	Basis Kwalificatie Examinering (BKE) 
 - 2013:	Informatics 2 (Python course) 
 - 2012:	Informatics 1 (Python course) 
+<details>
+  <summary><span style="color:blue;">Click</span> for more courses</summary>
+
 - 2012:	Pedagogisch Didactische Bekwaamheid (PDB) 
 - 2011:	Bedrijfshulpverlener 
 - 2009:	Proefdierkunde (art. 9) 
@@ -85,6 +89,7 @@ I am a computer enthousiast. I like programming in Python and R. Furthermore, I 
 - 2005:	Publishing in English 
 - 2000:	Elektronenmicroscopie 
 - 1999:	Veilige Microbiologische Technieken 
+</details>
 
 ---
 
@@ -128,7 +133,7 @@ Means and methods for counteracting protein aggregation.
 
 ---
 
-# Scientific grants 
+# Grants 
 
 - 2019: SiA KIEM-VANG: Development of a fractionation and characterization strategy to identify antimicrobial anthocyanin molecules for application as novel plant-based antibiotics  
 - 2018: SiA KIEM-VANG: Anthocyanins from agricultural waste: a source of next-generation antimicrobials? 
@@ -137,23 +142,23 @@ Means and methods for counteracting protein aggregation.
 
 # Publications 
 
-- Hageman J, Krikken AM. Single-Step Gene Knockout of the SUC2 Gene in Saccharomyces cerevisiae : A Laboratory Exercise for Undergraduate Students. J Microbiol Biol Educ. 2018 Oct 31;19(3). 
-- Boesjes M, Bloks VW, Hageman J, Bos T, van Dijk TH, Havinga R,    Wolters H, Jonker JW, Kuipers F, Groen AK. Hepatic farnesoid X-   receptor isoforms α2 and α4 differentially modulate bile salt and    lipoprotein metabolism in mice. PLoS One. 2014 Dec 15. 
-- Heldens L, van Genesen ST, Hanssen LL, Hageman J, Kampinga HH,    Lubsen NH. Protein refolding in peroxisomes is dependent upon an    HSF1-regulated function. Cell Stress Chaperones. 2012 Apr 5. 
+- [Hageman J, Krikken AM. Single-Step Gene Knockout of the SUC2 Gene in Saccharomyces cerevisiae : A Laboratory Exercise for Undergraduate Students. J Microbiol Biol Educ. 2018 Oct 31;19(3).](https://pubmed.ncbi.nlm.nih.gov/30377468/) 
+- [Boesjes M, Bloks VW, Hageman J, Bos T, van Dijk TH, Havinga R, Wolters H, Jonker JW, Kuipers F, Groen AK. Hepatic farnesoid X-receptor isoforms α2 and α4 differentially modulate bile salt and lipoprotein metabolism in mice. PLoS One. 2014 Dec 15.](https://pubmed.ncbi.nlm.nih.gov/25506828/) 
+- [Heldens L, van Genesen ST, Hanssen LL, Hageman J, Kampinga HH, Lubsen NH. Protein refolding in peroxisomes is dependent upon an HSF1-regulated function. Cell Stress Chaperones. 2012 Apr 5.](https://pubmed.ncbi.nlm.nih.gov/22477622/) 
 <details>
   <summary><span style="color:blue;">Click</span> for more publications</summary>
 
-- Out C, Hageman J, Bloks VW, Gerrits H, Sollewijn Gelpke MD, Bos T,    Havinga R, Smit MJ, Kuipers F, Groen AK. Liver receptor homolog-1 is critical for adequate up-regulation of Cyp7a1 gene transcription and bile salt synthesis during bile salt sequestration. Hepatology. 2011 Jun;53(6):2075-85. 
-- Hageman J, van Waarde MA, Zylicz A, Walerych D, Kampinga HH.    The diverse members of the mammalian HSP70 machine show    distinct chaperone-like activities. Biochem J. 2011 Apr 1;435(1):127-42. 
-- van Dijk KW, Kypreos KE, Fallaux FJ, Hageman J. Adenovirus-mediated gene transfer. Methods Mol Biol. 2011;693:321-43. 				 
-- Hageman J, Herrema H, Groen AK, Kuipers F. A role of the bile salt    receptor FXR in atherosclerosis. Arterioscler Thromb Vasc Biol. 2010    Aug;30(8):1519-28. 
-- Hageman J, Rujano MA, van Waarde MA, Kakkar V, Dirks RP,     Govorukhina N, Oosterveld-Hut HM, Lubsen NH, Kampinga HH. A    DNAJB chaperone subfamily with HDAC-dependent activities     suppresses toxic protein aggregation. Mol Cell. 2010 Feb 12;37(3). 
-- Hageman J, Kampinga HH. Computational analysis of the human HSPH/HSPA/DNAJ family and cloning of a human HSPH/HSPA/DNAJ expression library. Cell Stress Chaperones. 2009 Jan;14(1):1-21. 
-- Kampinga HH, Hageman J, Vos MJ, Kubota H, Tanguay RM, Bruford EA, Cheetham ME, Chen B, Hightower LE. Guidelines for the nomenclature of the human heat shock proteins. Cell Stress Chaperones. 2009 Jan;14(1):105-11. 
-- Vos MJ, Hageman J, Carra S, Kampinga HH. Structural and functional diversities between members of the human HSPB, HSPH, HSPA, and DNAJ chaperone families. Biochemistry. 2008 Jul 8;47(27):7001-11. 
-- Hageman J, Vos MJ, van Waarde MA, Kampinga HH. Comparison of    intra-organellar chaperone capacity for dealing with stress-induced    protein unfolding. J Biol Chem. 2007 Nov 23;282(47):34334-45. 
-- Hageman J, Eggen BJ, Rozema T, Damman K, Kampinga HH,     Coppes RP. Radiation and transforming growth factor-beta     cooperate in transcriptional activation of the profibrotic plasminogen    activator inhibitor-1 gene. Clin Cancer Res. 2005 Aug 15. 
-- Goessens WH, Lemmens-den Toom N, Hageman J, Hermans PW,    Sluijter M, de Groot R, Verbrugh HA. Evaluation of the Vitek 2     system for susceptibility testing of Streptococcus pneumoniae     isolates. Eur J Clin Microbiol Infect Dis. 2000 Aug;19(8):618-2. 
+- [Out C, Hageman J, Bloks VW, Gerrits H, Sollewijn Gelpke MD, Bos T, Havinga R, Smit MJ, Kuipers F, Groen AK. Liver receptor homolog-1 is critical for adequate up-regulation of Cyp7a1 gene transcription and bile salt synthesis during bile salt sequestration. Hepatology. 2011 Jun;53(6):2075-85.](https://pubmed.ncbi.nlm.nih.gov/21391220/) 
+- [Hageman J, van Waarde MA, Zylicz A, Walerych D, Kampinga HH. The diverse members of the mammalian HSP70 machine show distinct chaperone-like activities. Biochem J. 2011 Apr 1;435(1):127-42.](https://pubmed.ncbi.nlm.nih.gov/21231916/) 
+- [van Dijk KW, Kypreos KE, Fallaux FJ, Hageman J. Adenovirus-mediated gene transfer. Methods Mol Biol. 2011;693:321-43.](https://pubmed.ncbi.nlm.nih.gov/21080290/) 				 
+- [Hageman J, Herrema H, Groen AK, Kuipers F. A role of the bile salt receptor FXR in atherosclerosis. Arterioscler Thromb Vasc Biol. 2010 Aug;30(8):1519-28.](https://pubmed.ncbi.nlm.nih.gov/20631352/) 
+- [Hageman J, Rujano MA, van Waarde MA, Kakkar V, Dirks RP, Govorukhina N, Oosterveld-Hut HM, Lubsen NH, Kampinga HH. A DNAJB chaperone subfamily with HDAC-dependent activities     suppresses toxic protein aggregation. Mol Cell. 2010 Feb 12;37(3).](https://pubmed.ncbi.nlm.nih.gov/20159555/) 
+- [Hageman J, Kampinga HH. Computational analysis of the human HSPH/HSPA/DNAJ family and cloning of a human HSPH/HSPA/DNAJ expression library. Cell Stress Chaperones. 2009 Jan;14(1):1-21.](https://pubmed.ncbi.nlm.nih.gov/18686016/) 
+- [Kampinga HH, Hageman J, Vos MJ, Kubota H, Tanguay RM, Bruford EA, Cheetham ME, Chen B, Hightower LE. Guidelines for the nomenclature of the human heat shock proteins. Cell Stress Chaperones. 2009 Jan;14(1):105-11.](https://pubmed.ncbi.nlm.nih.gov/18663603/) 
+- [Vos MJ, Hageman J, Carra S, Kampinga HH. Structural and functional diversities between members of the human HSPB, HSPH, HSPA, and DNAJ chaperone families. Biochemistry. 2008 Jul 8;47(27):7001-11.](https://pubmed.ncbi.nlm.nih.gov/18557634/) 
+- [Hageman J, Vos MJ, van Waarde MA, Kampinga HH. Comparison of intra-organellar chaperone capacity for dealing with stress-induced protein unfolding. J Biol Chem. 2007 Nov 23;282(47):34334-45.](https://pubmed.ncbi.nlm.nih.gov/17875648/) 
+- [Hageman J, Eggen BJ, Rozema T, Damman K, Kampinga HH, Coppes RP. Radiation and transforming growth factor-beta cooperate in transcriptional activation of the profibrotic plasminogen    activator inhibitor-1 gene. Clin Cancer Res. 2005 Aug 15.](https://pubmed.ncbi.nlm.nih.gov/16115939/) 
+- [Goessens WH, Lemmens-den Toom N, Hageman J, Hermans PW,    Sluijter M, de Groot R, Verbrugh HA. Evaluation of the Vitek 2 system for susceptibility testing of Streptococcus pneumoniae isolates. Eur J Clin Microbiol Infect Dis. 2000 Aug;19(8):618-2.](https://pubmed.ncbi.nlm.nih.gov/11014625/) 
 
 </details>
 
