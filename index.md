@@ -1,7 +1,7 @@
 # Personal information 
  
 >- First Name: Jurre 
->- last Name: Hageman
+>- Last Name: Hageman
 >- Place of Birth:	Gouda 
 >- Date of Birth: 23-01-1978 
 >- E-mail: jurrehageman@gmail.com
@@ -29,7 +29,7 @@ Department of Radiation and Stress Cell Biology
     > I worked as a PhD student on the subject of molecular chaperones and the relation with diseases where proteotoxic stress plays a major role (such as Huntington's Disease). Used various Molecular Biology, Cell Biology and cellular imaging techniques.
     Thesis: [The human HSP70/HSP40 chaperone family, A study on its capacity to combat proteotoxic stress](https://research.rug.nl/en/publications/the-human-hsp70hsp40-chaperone-family-a-study-on-its-capacity-to-). 
 <details>
-  <summary><span style="color:blue;">Click</span> for more working experience</summary>
+  <summary><span style="color:blue;">Click</span> for more/less working experience</summary>
 
 - 2001-2004: **University of Groningen**
 Department of Radiation and Stress Cell Biology
@@ -79,7 +79,7 @@ I am a computer enthousiast. I like programming in Python and R. Furthermore, I 
 - 2013:	Informatics 2 (Python course) 
 - 2012:	Informatics 1 (Python course) 
 <details>
-  <summary><span style="color:blue;">Click</span> for more courses</summary>
+  <summary><span style="color:blue;">Click</span> for more/less courses</summary>
 
 - 2012:	Pedagogisch Didactische Bekwaamheid (PDB) 
 - 2011:	Bedrijfshulpverlener 
@@ -112,7 +112,7 @@ Running, fishing, nature, traveling, programming, science.
 - 2007: Protein Folding & Chaperones in Biology, Tomar, Portugal. Comparison of intra-organellar chaperone capacity for dealing with stress-induced protein unfolding. 
 - 2007: 10th Dutch Endo Neuro Meeting, Doorwerth, Nederland. A novel Hsp40 family member is a strong suppressor of polyglutamine aggregation. 
 <details>
-  <summary><span style="color:blue;">Click</span> for more conferences</summary>
+  <summary><span style="color:blue;">Click</span> for more/less conferences</summary>
 
 - 2003:	12th international congress of radiation research (ICRR), Brisbane, Australië. Normal tissue response to Radiation: Molecular changes in relation to tissue dysfunction. The role of TGF-beta in radiation-induced fibrosis. 
 - 2003: 2nd ESTRO Workshop on biology in radiation oncology, Berg en dal/Nijmegen, Nederland. Normal tissue effects: mechanisms. Activation of profibrogenic genes by radiation and TGF-beta. 
@@ -146,7 +146,7 @@ Means and methods for counteracting protein aggregation.
 - [Boesjes M, Bloks VW, Hageman J, Bos T, van Dijk TH, Havinga R, Wolters H, Jonker JW, Kuipers F, Groen AK. Hepatic farnesoid X-receptor isoforms α2 and α4 differentially modulate bile salt and lipoprotein metabolism in mice. PLoS One. 2014 Dec 15.](https://pubmed.ncbi.nlm.nih.gov/25506828/) 
 - [Heldens L, van Genesen ST, Hanssen LL, Hageman J, Kampinga HH, Lubsen NH. Protein refolding in peroxisomes is dependent upon an HSF1-regulated function. Cell Stress Chaperones. 2012 Apr 5.](https://pubmed.ncbi.nlm.nih.gov/22477622/) 
 <details>
-  <summary><span style="color:blue;">Click</span> for more publications</summary>
+  <summary><span style="color:blue;">Click</span> for more/less publications</summary>
 
 - [Out C, Hageman J, Bloks VW, Gerrits H, Sollewijn Gelpke MD, Bos T, Havinga R, Smit MJ, Kuipers F, Groen AK. Liver receptor homolog-1 is critical for adequate up-regulation of Cyp7a1 gene transcription and bile salt synthesis during bile salt sequestration. Hepatology. 2011 Jun;53(6):2075-85.](https://pubmed.ncbi.nlm.nih.gov/21391220/) 
 - [Hageman J, van Waarde MA, Zylicz A, Walerych D, Kampinga HH. The diverse members of the mammalian HSP70 machine show distinct chaperone-like activities. Biochem J. 2011 Apr 1;435(1):127-42.](https://pubmed.ncbi.nlm.nih.gov/21231916/) 
