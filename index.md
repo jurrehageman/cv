@@ -11,7 +11,7 @@
 
 ---
 
-# Working experience 
+# Work experience 
 
 - 2009-currently: **Hanzehogeschool Groningen**
 Institute for Life Science en Technology
