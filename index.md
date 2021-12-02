@@ -5,7 +5,7 @@
 >- Place of Birth:	Gouda 
 >- Date of Birth: 23-01-1978 
 >- E-mail: jurrehageman@gmail.com
->- [Linkedin](https://nl.linkedin.com/in/jurrehageman)
+>- [LinkedIn](https://nl.linkedin.com/in/jurrehageman)
 >- [Github](https://github.com/jurrehageman?tab=repositories)
 >- [Google Scholar](https://scholar.google.com/citations?user=MuEgL60AAAAJ&hl=en)
 
