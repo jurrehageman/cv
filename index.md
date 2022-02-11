@@ -116,7 +116,7 @@ Running, fishing, nature, traveling, programming, science.
 <details>
   <summary><span style="color:blue;">Click</span> for more/less conferences</summary>
 
-- 2003:	12th international congress of radiation research (ICRR), Brisbane, Australië. Normal tissue response to Radiation: Molecular changes in relation to tissue dysfunction. The role of TGF-beta in radiation-induced fibrosis. 
+- 2003:	12th international congress of radiation research (ICRR), Brisbane, Australia. Normal tissue response to Radiation: Molecular changes in relation to tissue dysfunction. The role of TGF-beta in radiation-induced fibrosis. 
 - 2003: 2nd ESTRO Workshop on biology in radiation oncology, Berg en dal/Nijmegen, Nederland. Normal tissue effects: mechanisms. Activation of profibrogenic genes by radiation and TGF-beta. 
 </details>
 
