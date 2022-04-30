@@ -71,7 +71,7 @@ Department of Bacteriology
 
 # Software 	 
 
-I am a computer enthousiast. I like programming in Python and R. Furthermore, I use Linux, Git and various Bio-informatics software (ClustalX, Blast and databases such as EMBL, NCBI, Ensembl, PDB). 
+I am a computer enthousiast. I like programming in Python and R. Furthermore, I use Linux, Git and various Bio-informatics software (ClustalX, Blast and databases such as EMBL, NCBI, Ensembl). 
 
 ---
 
