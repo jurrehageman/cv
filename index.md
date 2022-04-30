@@ -104,7 +104,7 @@ I am a computer enthousiast. I like programming in Python and R. Furthermore, I 
 
 # Hobbies 
 
-Running, fishing, nature, traveling, programming, science.
+Running, fishing, nature, traveling, programming and science.
 
 ---
 
