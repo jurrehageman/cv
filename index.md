@@ -9,7 +9,7 @@
 >- [Github](https://github.com/jurrehageman?tab=repositories)
 >- [Google Scholar](https://scholar.google.com/citations?user=MuEgL60AAAAJ&hl=en)
 
-<img src="pics/me.jpg" alt="me" width="200"/>
+![me](./pics/me.jpg)
 
 ---
 
