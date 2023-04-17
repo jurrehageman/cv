@@ -16,9 +16,14 @@
 
 # Work experience 
 
-- 2009-currently: **Hanzehogeschool Groningen**
+
+- 2016-currently: **Hanzehogeschool Groningen**
 Institute for Life Science en Technology
-    > I am a Senior lecturer of various Molecular Biology, Biochemistry, Genetics and Bio-informatics related modules. I am also involved in curriculum development.
+    > I am a Senior lecturer of the Biology and Medical Laboratory education program involved in curriculum development. My task is to keep track of the future of the Biological and Medical Research major and to implement new content-related and educational concepts.
+
+- 2009-2016: **Hanzehogeschool Groningen**
+Institute for Life Science en Technology
+    > I worked as a lecturer of various Molecular Biology, Biochemistry, Genetics and Bio-informatics related modules. 
 
 - 2008-2010: **University Medical Center Groningen**
 Center for Liver, Digestive and Metabolic Diseases 
