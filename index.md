@@ -76,7 +76,7 @@ Department of Bacteriology
 
 # Software 	 
 
-I am a computer enthousiast. I like programming in Python and R. Furthermore, I use Linux, Git and various Bio-informatics software (ClustalX, Blast and databases such as EMBL, NCBI, Ensembl). 
+I am a computer enthousiast. I like programming in Python (using the Anaconda suite) and R (Tidyverse). Furthermore, I use Linux, Git and various Bio-informatics software programs (such as Benchling, Clustal Omega and various databases such as EMBL, NCBI, Ensembl). 
 
 ---
 
@@ -106,7 +106,7 @@ I am a computer enthousiast. I like programming in Python and R. Furthermore, I 
 
 # Hobbies 
 
-Running, fishing, nature, traveling, programming, science.
+Running, calisthenics, fishing, nature, traveling, programming, science.
 
 ---
 
