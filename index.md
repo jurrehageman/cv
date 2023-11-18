@@ -1,3 +1,5 @@
+{% include head.html %}
+
 # Personal information 
  
 >- First Name: Jurre 
