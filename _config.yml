@@ -1,2 +1,4 @@
 theme: jekyll-theme-architect
 markdown: CommonMarkGhPages
+plugins:
+  - jekyll-seo-tag
