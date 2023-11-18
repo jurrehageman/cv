@@ -1,3 +1,7 @@
+<head>
+    <link rel="shortcut icon" type="image/png" href="{{ "/assets/images/favicon.png"  | absolute_url }}">
+</head>
+
 # Personal information 
  
 >- First Name: Jurre 
