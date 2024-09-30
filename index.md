@@ -80,7 +80,7 @@ Department of Bacteriology
 
 # Software 	 
 
-I am a computer enthousiast. I like programming in Python (using the Anaconda suite) and R (Tidyverse). Furthermore, I use Linux, Git and various Bio-informatics software programs (such as Benchling, Clustal Omega and various databases such as EMBL, NCBI, Ensembl). 
+I am a computer enthousiast. I like programming in Python (using the Anaconda suite) and R (Tidyverse). I use Markdown and Latex for scientific writing. Furthermore, I use Linux, Git and various Bio-informatics software programs (such as Benchling, Clustal Omega and various databases such as EMBL, NCBI, Ensembl). 
 
 ---
 
@@ -110,7 +110,7 @@ I am a computer enthousiast. I like programming in Python (using the Anaconda su
 
 # Hobbies 
 
-Running, calisthenics, fishing, nature, traveling, programming, science.
+Weightlifting, fishing, nature, traveling, programming, science.
 
 ---
 
