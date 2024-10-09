@@ -91,7 +91,7 @@ Furthermore, I use Linux, Git and various Bio-informatics software programs (suc
 - 2013:	Informatics 2 (Python course) 
 - 2012:	Informatics 1 (Python course) 
 - 2012:	Pedagogisch Didactische Bekwaamheid (PDB) 
-- 2011:	Bedrijfshulpverlener 
+- 2011:	Bedrijfshulpverlener (yearly updated)
 - 2009:	Proefdierkunde (art. 9) 
 - 2006:	Good Laboratory Practice / Good Clinical Practice 
 - 2005:	Project Management for Scientific Research 
