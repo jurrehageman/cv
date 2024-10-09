@@ -137,6 +137,7 @@ Weightlifting, fishing, nature, traveling, programming, science.
 - 2008: co-owner of patent 17106188.1-2123. 
 Means and methods for counteracting protein aggregation.
 
+
 ---
 
 # Grants 
