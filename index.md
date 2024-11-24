@@ -111,7 +111,7 @@ Furthermore, I use Linux, Git and various Bio-informatics software programs (suc
 
 # Hobbies 
 
-Weightlifting, fishing, nature, traveling, programming, science.
+Weightlifting, music, fishing, nature, traveling, programming, science.
 
 ---
 
