@@ -148,7 +148,13 @@ Means and methods for counteracting protein aggregation.
 
 ---
 
-# Publications 
+
+# Professional Articles
+
+- Herder, L., Ten Cate, S., Hageman, J., & Milder, F. (2026). Students investigate new targets for Huntington's disease. AnalyseVisie, August 2026.  
+  
+
+# Scientific Publications 
 
 - [Hageman J, Krikken AM. Single-Step Gene Knockout of the SUC2 Gene in Saccharomyces cerevisiae : A Laboratory Exercise for Undergraduate Students. J Microbiol Biol Educ. 2018 Oct 31;19(3).](https://pubmed.ncbi.nlm.nih.gov/30377468/) 
 - [Boesjes M, Bloks VW, Hageman J, Bos T, van Dijk TH, Havinga R, Wolters H, Jonker JW, Kuipers F, Groen AK. Hepatic farnesoid X-receptor isoforms α2 and α4 differentially modulate bile salt and lipoprotein metabolism in mice. PLoS One. 2014 Dec 15.](https://pubmed.ncbi.nlm.nih.gov/25506828/) 
