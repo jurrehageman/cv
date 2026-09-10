@@ -33,12 +33,12 @@ Institute for Life Science en Technology
 Center for Liver, Digestive and Metabolic Diseases 
 Laboratory Pediatrics 
  
-    > I worked as a Postdocteral researcher and investigated the use of nuclear receptors as targets for anti-atherosclerotic therapies in mice. I also generated various pseudo-viral vectors (Adenovirus and  adeno-associated viruses) for gene manipulation.
+    > I worked as a Postdoctoral researcher and investigated the use of nuclear receptors as targets for anti-atherosclerotic therapies in mice. I also generated various pseudo-viral vectors (Adenovirus and  adeno-associated viruses) for gene manipulation.
 
 - 2004-2008: **University of Groningen**
 Department of Radiation and Stress Cell Biology
 
-    > I worked as a PhD student on the subject of molecular chaperones and the relation with diseases where proteotoxic stress plays a major role (such as Huntington's Disease). Used various Molecular Biology, Cell Biology and cellular imaging techniques.
+    > I worked as a PhD student on the subject of molecular chaperones and the relation with diseases in which proteotoxic stress plays a major role (such as Huntington's Disease). Used various Molecular Biology, Cell Biology and cellular imaging techniques.
     Thesis: [The human HSP70/HSP40 chaperone family, A study on its capacity to combat proteotoxic stress](https://research.rug.nl/en/publications/the-human-hsp70hsp40-chaperone-family-a-study-on-its-capacity-to-). 
 
 
@@ -80,7 +80,7 @@ Department of Bacteriology
 
 # Software 	 
 
-I am a computer enthousiast. I like programming in Python (using the Anaconda suite) and R (Tidyverse). I use Markdown and Latex for scientific writing. 
+I am a computer enthusiast. I like programming in Python (using the Anaconda suite) and R (Tidyverse). I use Markdown and Latex for scientific writing. 
 Furthermore, I use Linux, Git and various Bio-informatics software programs (such as Benchling, Clustal Omega and various databases such as EMBL, NCBI, Ensembl). 
 
 ---
@@ -91,7 +91,7 @@ Furthermore, I use Linux, Git and various Bio-informatics software programs (suc
 - 2013:	Informatics 2 (Python course) 
 - 2012:	Informatics 1 (Python course) 
 - 2012:	Pedagogisch Didactische Bekwaamheid (PDB) 
-- 2011:	Bedrijfshulpverlener (yearly updated)
+- 2011:	Bedrijfshulpverlener (BHV, yearly updated)
 - 2009:	Proefdierkunde (art. 9) 
 - 2006:	Good Laboratory Practice / Good Clinical Practice 
 - 2005:	Project Management for Scientific Research 
